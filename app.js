@@ -41,6 +41,7 @@ const tsBtn = document.getElementById("TSBtn");
 const owBtn = document.getElementById("OWBtn");
 const hfBtn = document.getElementById("HFBtn");
 const shBtn = document.getElementById("SHBtn");
+const randomBtn = document.getElementById("randomBtn");
 
 const printQuotes = document.getElementById("printed-quotes");
 
